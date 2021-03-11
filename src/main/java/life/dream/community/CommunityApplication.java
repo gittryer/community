@@ -1,4 +1,4 @@
-package life.dream.community.community;
+package life.dream.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

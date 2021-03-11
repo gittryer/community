@@ -1,4 +1,4 @@
-package life.dream.community.community;
+package life.dream.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
